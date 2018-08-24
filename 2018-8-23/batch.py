@@ -3,8 +3,7 @@ import os
 import multiprocessing as mp
 
 filename = "www.geniatech.net"
-total = 0
-cores = 15
+cores = 5
 
 
 def process_wrapper(chunkStart, chunkSize):
