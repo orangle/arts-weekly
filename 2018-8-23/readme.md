@@ -5,8 +5,6 @@ ARTS
 
 ## Review
 
-### k8s 
-
 * https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727 
 * https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-2-13fdc6c4e24c
 
@@ -27,9 +25,17 @@ ARTS
 
 ## Tip
 
+
+
 ## Share
 
-[Python 文件批处理](./file_read.md)
+[Python 文件批处理](./file_read.md) 进程Pool, 采用FIFO的策略调度。
+
+Pool 和 Process，使用上比较
+* pool 适合任务非常多，因为可以重复利用
+* process 适合任务比较少，并且只需要一次完成的这种
+
+
 
 
 
