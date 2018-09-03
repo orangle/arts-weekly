@@ -32,6 +32,7 @@ Python的多进程模块
 
 ## Tips
 
+* https://blog.csdn.net/orangleliu/article/details/82347384 Python日志解析入库批处理
 
 ## Share
 
