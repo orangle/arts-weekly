@@ -3,7 +3,7 @@
 
 ## R
 
-* [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)¡
+* [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
 
 Python的多进程模块
 
